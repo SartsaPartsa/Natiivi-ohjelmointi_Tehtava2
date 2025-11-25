@@ -1,10 +1,12 @@
 # Lomake-App
 
-📱 Android — Login Form (Jetpack Compose)
-**Tekijä:** Sara Vehviläinen
-**Oppilaitos:** Oulun ammattikorkeakoulu
-**Kurssi:** Natiivi-ohjelmointi IN00CT07-3009
+📱 **Android — Login Form (Jetpack Compose)**  
+**Tekijä:** Sara Vehviläinen  
+**Oppilaitos:** Oulun ammattikorkeakoulu  
+**Kurssi:** Natiivi-ohjelmointi  
+**IN00CT07-3009**  
 **Lukukausi:** Syksy 2025
+
 
 ## 🧩 Tehtävän kuvaus
 
