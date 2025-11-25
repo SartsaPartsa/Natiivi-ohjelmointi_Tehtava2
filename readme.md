@@ -6,7 +6,6 @@
 **Kurssi:** Natiivi-ohjelmointi IN00CT07-3009  
 **Lukukausi:** Syksy 2025
 
-
 ## 🧩 Tehtävän kuvaus
 
 Tämän tehtävän tavoitteena on toteuttaa yksinkertainen Android-sovellus, joka näyttää kirjautumislomakkeen. Sovellus on tehty Kotlinilla ja Jetpack Compose -käyttöliittymäkirjastolla.
